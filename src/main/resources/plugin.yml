@@ -1,0 +1,9 @@
+name: InfectionStats
+main: net.infectioncraft.stats.InfectionStats
+
+version: 1.0
+depend:
+  - CommandExpress
+  - HolographicDisplays
+commands:
+  perfil:

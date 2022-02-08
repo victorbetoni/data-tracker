@@ -1,0 +1,7 @@
+message:
+  profile_lookup:
+    - '&f&l[&e&lPROFILE&f&l] &r{holder} profile:'
+    - '&f&l[&e&lPROFILE&f&l] &r   - &fKill/Deaths: &d{kills}K/{deaths}M'
+    - '&f&l[&e&lPROFILE&f&l] &r   - &fKDR: &d{kdr}'
+
+registered_keys:
