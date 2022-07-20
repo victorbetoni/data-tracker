@@ -1,6 +1,5 @@
 # DataTracker
 ### 🎲 Centralized data tracking API for Bukkit - Track and access any type of data from any plugin
-###### ⚠️ This project has been discontinued. Feel free to fork and do whatever you want with it ⚠️
 
 DataTracker is a plugin API which allows you to storage, retrieve and track your player's data in a centralized way
 
